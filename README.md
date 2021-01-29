@@ -8,6 +8,8 @@ To see my business card execute the following:
 npx melaniehall
 ```
 
+![Melanie Hall's Business Card](business-card.PNG)
+
 # Credit
 
 Forked from [@bitandbang](https://twitter.com/bitandbang/status/1075473070368919552)
