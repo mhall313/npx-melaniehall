@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Melanie Hall",
+  "author": "mhall313",
   "license": "MIT",
   "dependencies": {
     "boxen": "^4.1.0",
