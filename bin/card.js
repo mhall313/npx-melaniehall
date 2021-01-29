@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Melanie Hall /'),
   handle: chalk.cyan('mhall313'),
-  work: chalk.white('Financial Analyst at Capital One'),
+  work: chalk.white('Financial Analyst at Capital One for now'),
   github: chalk.cyan('github.com/mhall313'),
   linkedin: chalk.cyan('linkedin.com/in/hallmelanie/'),
   web: chalk.cyan('https://melaniehall-portfolio.netlify.app/'),
