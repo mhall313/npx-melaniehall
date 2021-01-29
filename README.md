@@ -2,8 +2,10 @@ Hi, I'm Melanie!
 
 # Usage
 
+To see my business card execute the following:
+
 ```bash
-npx mhall313
+npx melaniehall
 ```
 
 # Credit
